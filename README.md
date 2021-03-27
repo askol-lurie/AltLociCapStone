@@ -9,14 +9,14 @@ https://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/annotation/GRCh38_latest/refseq_id
 GRCh37:
 https://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/annotation/GRCh37_latest/refseq_identifiers/GRCh37_latest_genomic.fna.gz
 
-#3/24/2021
+# 3/24/2021
 
 website for downloading patient data
 Sequence read archive
 
 https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=announcement''
 
-#3/27/1982
+# 3/27/2021
 
 This paper is referencing on the GIAB website for having full sequencing data:
 https://www.biorxiv.org/content/10.1101/2020.12.11.422022v1

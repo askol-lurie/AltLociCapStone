@@ -23,7 +23,16 @@ https://www.biorxiv.org/content/10.1101/2020.12.11.422022v1
 An Extensive Sequence Dataset of Gold-Standard Samples for Benchmarking and Development
 console.cloud.google.com/storage/browser/brain-genomics-public/research/sequencing/
 
+# 3/28/2021
 
+Software required for GATK workflow
+https://gatk.broadinstitute.org/hc/en-us/articles/360041320571--How-to-Install-all-software-packages-required-to-follow-the-GATK-Best-Practices
+
+GATK instructions for mapping reads to GRCh38 with alts
+https://gatk.broadinstitute.org/hc/en-us/articles/360037498992--How-to-Map-reads-to-a-reference-with-alternate-contigs-like-GRCH38#1
+
+Conceptual description of indexing
+https://www.biostars.org/p/212594/
 
 
 

@@ -34,5 +34,8 @@ https://gatk.broadinstitute.org/hc/en-us/articles/360037498992--How-to-Map-reads
 Conceptual description of indexing
 https://www.biostars.org/p/212594/
 
+# 4/1/2021
 
+GATK data preprocessing walkthrough
+https://gatk.broadinstitute.org/hc/en-us/articles/360035535912-Data-pre-processing-for-variant-discovery
 

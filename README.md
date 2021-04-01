@@ -39,3 +39,6 @@ https://www.biostars.org/p/212594/
 GATK data preprocessing walkthrough
 https://gatk.broadinstitute.org/hc/en-us/articles/360035535912-Data-pre-processing-for-variant-discovery
 
+GRCh38 with alt
+https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.39#/def_asm_ALT_REF_LOCI_1
+

@@ -42,3 +42,8 @@ https://gatk.broadinstitute.org/hc/en-us/articles/360035535912-Data-pre-processi
 GRCh38 with alt
 https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.39#/def_asm_ALT_REF_LOCI_1
 
+#4/2/2021
+created bash file to index reference genomes with no alts
+
+created summary files for grch38 with alt loci
+

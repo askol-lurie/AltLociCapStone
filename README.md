@@ -47,3 +47,12 @@ created bash file to index reference genomes with no alts
 
 created summary files for grch38 with alt loci
 
+#4/3/2021
+Alt genome workflow
+1. Index the reference FASTA for use with BWA-MEM
+2. Include the reference ALT index file
+3. Align reads with BWA-MEM
+
+paper github pipelines
+https://github.com/bharani-lab/WES-pipelines
+

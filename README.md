@@ -21,7 +21,7 @@ https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=announcement''
 This paper is referencing on the GIAB website for having full sequencing data:
 https://www.biorxiv.org/content/10.1101/2020.12.11.422022v1
 An Extensive Sequence Dataset of Gold-Standard Samples for Benchmarking and Development
-console.cloud.google.com/storage/browser/brain-genomics-public/research/sequencing/
+
 
 # 3/28/2021
 
